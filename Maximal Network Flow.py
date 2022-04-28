@@ -1,3 +1,5 @@
+# Скрипт определяет минимальный поток в сети методом Форда Фалкерсона
+
 from collections import defaultdict
 
 class Graph:
