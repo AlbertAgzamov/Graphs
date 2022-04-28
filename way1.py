@@ -1,3 +1,6 @@
+# Скрипт предназначен для определения кратчайшего пути в произвольном графе с весами (возможны отрицательные веса)
+# Алгоритм Форда-Беллмана
+
 def main():
     with open('B:\Python Scripts\(lab3) Way In Net\Source.txt', 'r') as f, \
          open('B:\Python Scripts\(lab3) Way In Net\Results.txt', 'w') as g:
